@@ -27,6 +27,10 @@ def main():
             st.write(f"The email is: **{result}**")
         else:
             st.write("Please enter an email.")
+     st.write("Made by: Ayush Dutta, Ayush Verma, Mourjo Bosu, Harel Prasad")
 
 if __name__ == "__main__":
     main()
+
+
+
