@@ -15,7 +15,7 @@ def predict_email(email):
 
 # Streamlit app
 def main():
-    st.title("Spam Email Classifier")
+    st.title("Spam Email Classifier: CSE-S")
     st.write("Enter an email to check if it is spam or not.")
 
     # Taking input email from the user
@@ -27,10 +27,7 @@ def main():
             st.write(f"The email is: **{result}**")
         else:
             st.write("Please enter an email.")
-     st.write("Made by: Ayush Dutta, Ayush Verma, Mourjo Bosu, Harel Prasad")
+    st.write("MADE BY: Ayush Dutta, Ayush Verma, Mourjo Bosu, Harel Prasad")
 
 if __name__ == "__main__":
     main()
-
-
-
