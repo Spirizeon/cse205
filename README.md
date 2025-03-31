@@ -25,8 +25,8 @@ The project consists of the following files:
 1. Clone this repository to your local machine.
    
    ```bash
-   git clone https://github.com/your-username/spam-email-classifier.git
-   cd spam-email-classifier
+   git clone https://github.com/spirizeon/cse205
+   cd cse205
    ```
 
 2. Install the required Python libraries using `pip`:
