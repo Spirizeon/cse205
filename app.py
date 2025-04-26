@@ -15,7 +15,7 @@ def predict_email(email):
 
 # Streamlit app
 def main():
-    st.title("Spam Email Classifier: CSE-S")
+    st.title("Spam Email Classifier")
     st.write("Enter an email to check if it is spam or not.")
 
     # Taking input email from the user
