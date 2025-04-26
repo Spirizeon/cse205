@@ -63,12 +63,6 @@ To train the spam detection model from scratch:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Credits
-
-- **Ayush Dutta** - Developer
-- **Ayush Verma** - Developer
-- **Mourjo Bosu** - Developer
-- **Harel Prasad** - Developer
 
 ---
 
